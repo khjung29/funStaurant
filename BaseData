@@ -12,6 +12,7 @@
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
+      "baseImgUrl" : "https://raw.githubusercontent.com/khjung29/funStaurant/master/baseImg.jpeg",
       "bbsId" : "T2019-0286-04-296340",
       "url" : "https://cfpbbsapi.kbs.co.kr/board/v1/",
       "searchUrl" : "http://home.ebs.co.kr/cook/function/",
