@@ -1,0 +1,23 @@
+{ 
+  "recipe" : [
+   {
+      "title" : "펀스토랑레시피",
+      "fbNativeInterval" : "6",
+      "fbNativeReload" : "false",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "bbsId" : "T2019-0286-04-296340",
+      "url" : "https://cfpbbsapi.kbs.co.kr/board/v1/",
+      "searchUrl" : "http://home.ebs.co.kr/cook/function/",
+      "postId" : "500514",
+      "pagePstFig" : "10",
+      "item":[{"id":"","title":""}]
+    }   
+  ]
+}
