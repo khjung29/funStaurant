@@ -19,7 +19,7 @@
       "postId" : "500514",
       "pagePstFig" : "10",
       "videoTit" : "h3.play_tit",
-      "itemList" : [
+      "item" : [
           { "title" : "전체레시피", "id" : "2", "img" : "", "sort" : "1"},
           { "title" : "메인레시피", "id" : "1", "img" : "", "sort" : "2"}
       ]
